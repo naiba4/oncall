@@ -110,7 +110,7 @@
     "node": ">=14"
   },
   "dependencies": {
-    "@grafana/data": "^9.2.4",
+    "@grafana/data": "^9.5.15",
     "@grafana/faro-web-sdk": "^1.0.0-beta4",
     "@grafana/faro-web-tracing": "^1.0.0-beta4",
     "@grafana/runtime": "9.3.0-beta1",
