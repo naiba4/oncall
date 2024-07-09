@@ -1,3 +1,4 @@
 aiohttp==3.8.5
 Faker==16.4.0
 tqdm==4.64.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
