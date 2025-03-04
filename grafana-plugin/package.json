@@ -80,7 +80,7 @@
     "@types/throttle-debounce": "^5.0.0",
     "@typescript-eslint/eslint-plugin": "^5.40.1",
     "babel-plugin-dynamic-import-node": "^2.3.3",
-    "copy-webpack-plugin": "^11.0.0",
+    "copy-webpack-plugin": "^13.0.0",
     "dompurify": "^2.3.12",
     "dotenv": "^16.0.3",
     "eslint": "^8.25.0",
