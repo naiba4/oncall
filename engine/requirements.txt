@@ -51,10 +51,11 @@ django-dbconn-retry==0.1.7
 django-ipware==4.0.2
 django-anymail==8.6
 django-deprecate-fields==0.1.1
-pymdown-extensions==10.0
+pymdown-extensions==10.16.1
 requests==2.31.0
 urllib3==1.26.15
 prometheus_client==0.16.0
 lxml==4.9.2
 babel==2.12.1
 drf-spectacular==0.26.2
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
